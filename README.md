@@ -1,5 +1,5 @@
 # wykshop
-这是一个在线商城的网站demo，原创者：sysho。github:https://github.com/511733119/shop。
+这是一个在线商城的网站demo，采用spring+struts+hibernate(ssh)架构 原创者：sysho。github:https://github.com/511733119/shop。
 
 由于原作者并没有写配置环境，而笔者在电脑上使用了较新的tomcat8,mysql8,jdk1.8的环境。原项目无法正常运行。
 
